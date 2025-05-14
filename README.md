@@ -158,4 +158,4 @@ print(result)
 <img src="tictactoe.png" alt="Sample Output">
 
 ### Developed by:
-<a href="https://github.com/ankush0939">Ankush Mishra</a>
+<a href="[https://github.com/Srashtigupta04]">Srashti Gupta</a>
